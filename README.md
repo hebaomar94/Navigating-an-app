@@ -50,4 +50,8 @@ Step 8: Add Labels containing SF Symbols to the tabItems, to represent share and
 Tip: Labels use icons from the SF Symbols set.
 
 
-Step 8: When you click on the trash icon, the text Trash Tab should appear. 
+Step 8: When you click on the trash icon, the text Trash Tab should app![Uploading Screenshot 2023-08-08 at 6.13.14 PM.png…]()
+ear. <img width="1440" alt="Screenshot 2023-08-08 at 6 13 09 PM" src="https://github.com/hebaomar94/Navigating-an-app/assets/97067717/256ef6e8-6419-404f-9ce1-d0891d59d919">
+
+
+
