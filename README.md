@@ -51,10 +51,14 @@ Tip: Labels use icons from the SF Symbols set.
 
 
 Step 8: When you click on the trash icon, the text Trash Tab should app
-<img width="1440" alt="Screenshot 2023-08-08 at 6 13 14 PM" src="https://github.com/hebaomar94/Navigating-an-app/assets/97067717/b5dd0260-a5b9-4d2a-b543-04db3785c7ae">
 
 
-<img width="1440" alt="Screenshot 2023-08-08 at 6 13 09 PM" src="https://github.com/hebaomar94/Navigating-an-app/assets/97067717/a9937b20-c12e-4b64-86f3-fc6328272c68">
+![image](https://github.com/hebaomar94/Navigating-an-app/assets/97067717/ec54b3e3-5bcd-46fc-85ad-6e586683dd9b)
+
+
+![image](https://github.com/hebaomar94/Navigating-an-app/assets/97067717/b3fe6ba6-87bc-4433-8e0a-0952bcab1f88)
+
+
 
 
 
