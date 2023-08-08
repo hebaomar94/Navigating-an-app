@@ -59,6 +59,9 @@ Step 8: When you click on the trash icon, the text Trash Tab should app
 ![image](https://github.com/hebaomar94/Navigating-an-app/assets/97067717/b3fe6ba6-87bc-4433-8e0a-0952bcab1f88)
 
 
+# myTabbedView
+![image](https://github.com/hebaomar94/Navigating-an-app/assets/97067717/091e8848-a9a7-4196-bb22-3764a4797401)
+
 
 
 
